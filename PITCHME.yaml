@@ -1,0 +1,14 @@
+# Gitpitch Setting
+
+## background
+theme-background : [ "#fffacd" ]
+theme-code       : [ "Source Code Pro" ]
+theme-controls   : [ "#808080" ]
+theme-margins    : [ "0", "15px" ]
+slide-number: true
+
+## font
+theme-headline   : [ "M PLUS Rounded 1c", "#808080", "none" ]
+theme-byline     : [ "M PLUS Rounded 1c", "#a9a9a9", "none" ]
+theme-text       : [ "M PLUS Rounded 1c", "#a9a9a9", "none" ]
+theme-links      : [ "#a9a9a9", "#c0c0c0" ]
