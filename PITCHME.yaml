@@ -8,7 +8,7 @@ theme-margins    : [ "0", "15px" ]
 slide-number: true
 
 ## font
-theme-headline   : [ "M PLUS Rounded 1c", "#808080", "none" ]
-theme-byline     : [ "M PLUS Rounded 1c", "#a9a9a9", "none" ]
-theme-text       : [ "M PLUS Rounded 1c", "#a9a9a9", "none" ]
+theme-headline   : [ "Courier New", "#808080", "none" ]
+theme-byline     : [ "Courier New", "#a9a9a9", "none" ]
+theme-text       : [ "Courier New", "#a9a9a9", "none" ]
 theme-links      : [ "#a9a9a9", "#c0c0c0" ]
