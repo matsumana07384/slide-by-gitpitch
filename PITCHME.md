@@ -1,10 +1,10 @@
 ---?image=assets/img/background.jpg
 
 ### some title
-### 20xx/xx/xx@workshop
-### Manami Matsuura
+#### 20xx/xx/xx@workshop
+#### Manami Matsuura
 
----?color=linear-gradient(100deg, white 50%, #fffacd 50%)
+---?color=linear-gradient(90deg, white 40%, #fffacd 60%)
 
 @snap[west span-40 text-center]
 
