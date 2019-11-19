@@ -4,7 +4,7 @@
 #### 20xx/xx/xx@workshop
 #### Manami Matsuura
 
----?color=linear-gradient(90deg, white 40%, #fffacd 60%)
+---?color=linear-gradient(90deg, white 50%,#fffacd 50%)
 
 @snap[west span-40 text-center]
 
@@ -12,8 +12,9 @@
 
 @snapend
 
-@snap[north-east span-40 text-center]
-#### まっつん（Manami Matsuura）
+@snap[north-east span-40 text-left]
+#### まっつん
+####（Manami Matsuura）
 @snapend
 
 ---
