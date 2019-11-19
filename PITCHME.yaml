@@ -12,3 +12,4 @@ theme-headline   : [ "Courier New", "#808080", "none" ]
 theme-byline     : [ "Courier New", "#a9a9a9", "none" ]
 theme-text       : [ "Courier New", "#a9a9a9", "none" ]
 theme-links      : [ "#a9a9a9", "#c0c0c0" ]
+highlight        : ir-black
