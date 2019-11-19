@@ -8,13 +8,14 @@
 
 @snap[west span-40 text-center]
 
-![me](assets/img/manami.matsuura.JPG)
+<img src="assets/img/manami.matsuura.JPG" width=30% height=30% alt="me">
 
 @snapend
 
 @snap[north-east span-40 text-left]
 #### まっつん
 ####（Manami Matsuura）
+
 @snapend
 
 ---
